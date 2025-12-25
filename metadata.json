@@ -1,0 +1,5 @@
+{
+  "name": "Guardia Case Intelligence",
+  "description": "An Appian-style enterprise case management MVP featuring proactive Magic Rule Book (context-aware policy retrieval) and Mistake Stopper (compliance guardrails) powered by Gemini.",
+  "requestFramePermissions": []
+}
